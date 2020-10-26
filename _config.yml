@@ -1,9 +1,9 @@
-title: no style, please! # name of the site
+title: void winter # name of the site
 author: Joseph # name of site's author
 email: jge9@protonmail.ch # email of site's author
 url: https://deadoceans.github.io # root address of the site
 description: > # description of the site (multiple lines allowed)
-  A (nearly) no-CSS, fast, minimalist Jekyll theme.
+  Thoughts, speculations, work.
 
 permalink: /:slug.html
 
