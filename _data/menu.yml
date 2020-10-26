@@ -5,8 +5,8 @@ entries:
   - title: info
     url: false
     entries:
-      - title: a (nearly) no-CSS, fast, minimalist Jekyll theme.
-        url: false
+      - title: about
+        url: about
       - title: github
         url: https://github.com/wvoid
       - title: steam
