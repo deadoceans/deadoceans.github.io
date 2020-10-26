@@ -3,11 +3,11 @@ author: Joseph # name of site's author
 email: jge9@protonmail.ch # email of site's author
 url: https://wvoid.github.io # root address of the site
 description: > # description of the site (multiple lines allowed)
-  Thoughts, speculations, work.
+  Work, thoughts, speculation.
 
 permalink: /:slug.html
 
-favicon: "./logo.jpg" # relative path to site's favicon
+favicon: "./logo.png" # relative path to site's favicon
 # goat_counter: "yoursitename" # put your GoatCounter name if you want to use GoatCounter analytics
 
 theme: riggraz/no-style-please # if you are using GitHub Pages, change it to remote_theme: riggraz/no-style-please
