@@ -14,29 +14,20 @@ entries:
       - title: gog
         url: https://www.gog.com/u/deadoceans
 
-  - title: thoughts & writings
+  - title: posts
     post_list: true
     url: false
     entries: false
-    
-  - title: software related
-    post_list: true
-    url: false
-    entries: false
-
-  - title: rss
-    url: feed.xml
   
-  - title: another list
+  - title: etc
     url: false
     entries:
-      - title: with subitems
-        url: false
-        entries:
-          - title: with subsubitems
-            url: false
-          - title: example page
-            url: about
+      - title: example page
+        url: about
+        
+  - title: rss
+    url: feed.xml
+            
   - title: PRO TIP
     url: false
     entries:
