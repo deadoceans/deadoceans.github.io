@@ -11,6 +11,8 @@ entries:
         url: https://github.com/wvoid
       - title: steam
         url: https://steamcommunity.com/id/deadoceans/
+      - title: gog
+        url: https://www.gog.com/u/deadoceans
 
   - title: thoughts
     post_list: true
