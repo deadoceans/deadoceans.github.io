@@ -14,7 +14,12 @@ entries:
       - title: gog
         url: https://www.gog.com/u/deadoceans
 
-  - title: thoughts
+  - title: thoughts & writings
+    post_list: true
+    url: false
+    entries: false
+    
+  - title: software related
     post_list: true
     url: false
     entries: false
