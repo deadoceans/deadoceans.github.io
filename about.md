@@ -3,6 +3,6 @@ layout: post
 title: About
 ---
 
-This is an example page!
-
-Actually, it has the same layout of a post...
+<figure>
+  <img src="../img/logo-icon.jpg" align="left" hspace="50" vspace="50">
+</figure>
