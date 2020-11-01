@@ -10,7 +10,7 @@ the privacy of the users in these databases from various attacks.  A wealth of i
 Dwork and Roth can be found below.
 
 <figure>
-    <img src="../assets/img/diff_priv.PNG">
+    <img src="../img/diff_priv.PNG">
 </figure>
 
 Unfortunately, as thoroughly outlined by Mironov in his paper, [*On significance of the least significant bits for differential
@@ -24,7 +24,7 @@ e Mechanism where noise is added to some query **f(D)** on some database **D**. 
 is shown below.
 
 <figure>
-    <img src="../assets/img/sm.PNG">
+    <img src="../img/sm.PNG">
 </figure>
 
 The snapping mechanism, and thus our implementation of the snapping mechanism, has been proven to satisfy
@@ -109,6 +109,6 @@ requires the use of Laplace noise and instead call the snapping mechanism implem
 
 ### Project Authors
 
-[Joseph George](joseph.george@richmond.edu), University of Richmond
+[Joseph George](jge9@protonmail.ch), University of Richmond
 
 [Marissa Sisco](marissa.sisco@richmond.edu), University of Richmond
