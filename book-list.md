@@ -1,1 +1,6 @@
-some books soon i guezz
+## Currently Reading
+
+* The Brothers Karamazov
+* The Orthodox Way
+
+## Queue
