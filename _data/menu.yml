@@ -24,8 +24,10 @@ entries:
     entries:
       - title: video game backlog
         url: games-list
-      - books
+      - title: books
         url: book-list
+      - title: anime
+        url: anime
         
   - title: rss
     url: feed.xml
