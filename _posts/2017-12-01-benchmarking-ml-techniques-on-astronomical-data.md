@@ -29,7 +29,7 @@ Unfortunately, querying SIMBAD this way was mind-numbingly slow, and the script 
 ## The Working Dataset
 
 <figure>
-    <img src="../assets/img/object_counts.png">
+    <img src="../img/object_counts.png">
 </figure>
 
 The original dataset was comprised of 10,645 objects. However, as you can see from the above image, some of the categories comprised an extremely small percentage of the entire dataset and were not worth including. In the final, working dataset, I chose to include only 3 categories of astronomical objects with a substantial count to be included in the analysis: TYC (7,407), HD (1,280), and UCAC2 (426).
@@ -69,7 +69,7 @@ By using this technique, my final working dataset was **22,221** observations in
 I encountered another issue with the data while attempting model regularization. There were several missing data points in a few columns of the dataset. I used the following code to give me an exact count of the missing values in the dataset.
 
 <figure>
-    <img src="../assets/img/ns_vals.jpg">
+    <img src="../img/ns_vals.jpg">
 </figure>
 
 As we can see here, the “sigmpro” columns are the ones with the missing values. w4sigmpro had far too many missing values, so I chose to completely do away with this column altogether. For the other three columns, I simply replaced the missing values with the mean value of the column itself.
@@ -95,25 +95,25 @@ Typically, it is a great idea to explore the data you are working with in a visu
 I began by visualizing the locations of the data in terms of their RA and DEC measurements. The plot is color coded to indicate the three catalogs of star classes that I am working with. This plot gave me a good idea of where the bands I took my samples from were located in terms of RA and DEC space.
 
 <figure>
-    <img src="../assets/img/vis.png">
+    <img src="../img/vis.png">
 </figure>
 
 Next, I created plots of the magnitude of the 4 bands vs. their respective signal-to-noise ratios.
 
 <figure>
-    <img src="../assets/img/w1.png">
+    <img src="../img/w1.png">
 </figure>
 
 <figure>
-    <img src="../assets/img/w2.png">
+    <img src="../img/w2.png">
 </figure>
 
 <figure>
-    <img src="../assets/img/w3.png">
+    <img src="../img/w3.png">
 </figure>
 
 <figure>
-    <img src="../assets/img/w4.png">
+    <img src="../img/w4.png">
 </figure>
 
 This is actually pretty interesting! The w1 and w2 bands have very similar shapes. That is, they slope upwards and sort of level off. With these two, there seems to be a very general pattern (with several outliers, of course), that the higher the flux magnitude, the higher the signal-to-noise ratio. The stars from the HD catalog also seem to comprise a greater amount of the stars with lower flux measurements.
