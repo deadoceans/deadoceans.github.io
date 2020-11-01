@@ -10,7 +10,7 @@ It's hard to capture what makes this game so special to me and many other people
 I will tell you a tale of my first experience with this game. I played for a total of about 10 minutes before quitting and deeming it a waste of my time. I'd not played anything like it before, and I'd much rather be spoon fed easy hits of dopamine in my downtime. Wasn't life already stressful enough?
 
 <figure>
-    <img src="../assets/img/ds3_3.jpg">
+    <img src="../img/ds3_3.jpg">
     <figcaption>The end of my first run led to something strange happening.</figcaption>
 </figure>
 
@@ -27,7 +27,7 @@ Things are eerily quiet when navigating the environments. It's just you, your th
 And then you get to the end of this level, this mini-world of creative genius, and enter the fog gates. The previous silence and stillness transforms into some of the most beautiful orchestral music you've heard as you encounter a terrifying entity whose health bar fills the entire width of your computer monitor. Your heart rate increases and you fight for your life. And you most likely die a glorious death, perhaps several times. But you awaken, and you have the chance to do it again and again until you beat the boss, or you let the boss beat you.
 
 <figure>
-    <img src="../assets/img/ds3_2.jpg">
+    <img src="../img/ds3_2.jpg">
     <figcaption>Sister Friede - a very difficult and atmospheric boss fight.</figcaption>
 </figure>
 
@@ -35,7 +35,7 @@ You have several starting classes to choose from, as well as a diverse set of we
 
 
 <figure>
-    <img src="../assets/img/ds3_1.jpg">
+    <img src="../img/ds3_1.jpg">
     <figcaption>Made this badass during one of my most recent playthroughs.</figcaption>
 </figure>
 
