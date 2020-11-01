@@ -4,7 +4,7 @@ title: About
 ---
 
 <figure>
-  <img src="../img/logo-icon.jpg" align="left" hspace="50" vspace="50" width="150" height="150">
+  <img src="../img/logo-icon.jpg" align="left" hspace="20" vspace="20" width="150" height="150">
 </figure> Software Engineer specializing in Qt/QML, embedded systems, Linux, and general desktop and touchscreen application development.  Ironically skeptical of technology and the impact it is having on the human psyche.  
 
 Zero social media, don't support virtue signaling monopolies, and advocate of privacy and a focused and meaningful life lived by your own sense of what is right.  
