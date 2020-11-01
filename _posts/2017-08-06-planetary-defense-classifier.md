@@ -23,7 +23,7 @@ The first approach to solve this problem was building a text classifier in the P
 In other words, it was necessary that a human or group of humans manually evaluate an entire crawl session result to train the classifier, and this is exactly what we did.  After agreeing upon a certain criteria of relevancy for each website, another intern and I went over all ~30,000 pages ourselves and marked them as relevant, not relevant, or maybe relevant.
 
 <figure>
-    <img src="../img/accuracy.jpg">
+    <img src="../img/accuracy.PNG">
 </figure>
 
 The above image is a calculated accuracy percentage for each round after going through the webpages manually.  You can probably guess where, but there was an unexpected and extreme dip in accuracy relatively early on in the crawl.
