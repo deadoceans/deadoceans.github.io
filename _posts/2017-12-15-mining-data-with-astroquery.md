@@ -207,5 +207,4 @@ with open(WISE_info_output, 'w') as f:
     writer.writerows(WISE_specifics)
 ```
 
-
-That's it!  [This](https://github.com/jjgccg/IRSA-ALLWISE-Classifier/blob/master/matching%20scripts/WISE_query.py) is the full Python script source code.
+See my github for full source code.
