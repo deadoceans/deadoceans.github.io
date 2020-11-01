@@ -22,8 +22,8 @@ entries:
   - title: etc
     url: false
     entries:
-      - title: example page
-        url: about
+      - title: video game backlog
+        url: games-list
         
   - title: rss
     url: feed.xml
