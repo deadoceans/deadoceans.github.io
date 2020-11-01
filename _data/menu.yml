@@ -24,12 +24,14 @@ entries:
     entries:
       - title: video game backlog
         url: games-list
+      - books
+        url: book-list
         
   - title: rss
     url: feed.xml
             
-  - title: PRO TIP
+  - title: a quote
     url: false
     entries:
-      - title: to edit this menu, edit _data/menu.yml file
+      - title: “If you pretend to feel a certain way, the feeling can become genuine all by accident.” - Hei
         url: false
