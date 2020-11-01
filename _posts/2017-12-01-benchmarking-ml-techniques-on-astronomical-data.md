@@ -69,7 +69,7 @@ By using this technique, my final working dataset was **22,221** observations in
 I encountered another issue with the data while attempting model regularization. There were several missing data points in a few columns of the dataset. I used the following code to give me an exact count of the missing values in the dataset.
 
 <figure>
-    <img src="../img/ns_vals.jpg">
+    <img src="../img/ns_vals.png">
 </figure>
 
 As we can see here, the “sigmpro” columns are the ones with the missing values. w4sigmpro had far too many missing values, so I chose to completely do away with this column altogether. For the other three columns, I simply replaced the missing values with the mean value of the column itself.
