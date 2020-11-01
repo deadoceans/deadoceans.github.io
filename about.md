@@ -11,7 +11,7 @@ Software Engineer specializing in Qt/QML, embedded systems, Linux, and general d
 
 Ironically skeptical of technology and the impact it is having on the human psyche.  
 
-Zero social media and an advocate of privacy and a focused and meaningful life lived by a personal sense of what is right.  And approximately $0.00 of my money goes towards virtue-signaling monopolies.
+Zero social media and an advocate of privacy and a focused and meaningful life lived by a personal sense of what is right.
 
 Perpetual existentialist continuously trying to crawl my way out of reaching a nihilistic conclusion.
 
