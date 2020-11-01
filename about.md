@@ -11,6 +11,8 @@ Software Engineer specializing in Qt/QML, embedded systems, Linux, and general d
 
 Zero social media, don't support virtue signaling monopolies, and advocate of privacy and a focused and meaningful life lived by your own sense of what is right.  
 
-Perpetual existentialist continuously trying to crawl my way out of reaching a nihilistic conclusion.  
+Perpetual existentialist continuously trying to crawl my way out of reaching a nihilistic conclusion.
+
+More interested in the human condition than boolean statements.
 
 I enjoy video games, reading books, writing, piano, calisthenics, anime, language learning, traveling to different countries, and peace and quiet.  I wish I could draw vast, post apocalyptic environments.  Maybe it's something I will work on. 
