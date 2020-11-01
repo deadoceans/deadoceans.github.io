@@ -163,8 +163,6 @@ if [ $1 == "-u" ] || [ $1 == "--update" ]; then
 fi
 ```
 
-The full shell script can be found [here](https://github.com/jjgccg/MultiContainer-CloudFormation/blob/master/launch-template-service.sh).
-
 ## Template Hacking
 
 Now we have our properties file, and a shell script to update or create a stack using the AWS CLI.  So now comes the main attraction.  The CloudFormation template itself.
@@ -349,8 +347,6 @@ CloudWatchLogsGroupTwo:
                     - !Select [1, !Ref pContainerDefNames]
     RetentionInDays: 365
 ```
-
-The full CloudFormation template can be found [here](https://github.com/jjgccg/MultiContainer-CloudFormation/blob/master/template-environment-service.yml)
 
 ## Afterword
 
