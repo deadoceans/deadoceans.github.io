@@ -15,7 +15,7 @@ The characters and the dialog are the apotheosis of Primordia.
 I was shocked at how well done the characterizations of Horatio and his sidekick were (I'm desensitized to the kind of characters you find in most modern games, after all). They are congruent in their beliefs and behavior most of the time while allowing for slight deviations and quirks when the situation calls for it. In other words, they are not flat, two-dimensional characters that serve as cliches or archetypes or devices to allow for the advancement of the plot. They feel real and alive, and it might fly under the radar at first glance because of the subtlety with which it is implemented.
 
 <figure>
-    <img src="../assets/img/primordia_train.png">
+    <img src="../img/primordia_train.png">
     <figcaption>Source: http://www.wadjeteyegames.com/games/primordia/</figcaption>
 </figure>
 
@@ -30,7 +30,7 @@ And it's genuinely funny at times. I have an obscure sense of humor and it takes
 If you're reading this review, you already know what the art looks like. Yes, it's heavily pixelated and low resolution. But of course, that's part of the aesthetic. I couldn't really imagine Primordia being a game with high resolution artwork and animations. It just wouldn't be the same. I wouldn't like it as much. The way it's done is perfect for the atmosphere and setting, I think, and I wouldn't change a thing. If you like this retro, low-resolution aesthetic, it's all the more reason to buy the game.
 
 <figure>
-    <img src="../assets/img/primordia_giant.png">
+    <img src="../img/primordia_giant.png">
     <figcaption>Source: http://www.wadjeteyegames.com/games/primordia/</figcaption>
 </figure>
 
@@ -41,7 +41,7 @@ A few times throughout the experience, you view higher-resolution cut scenes at 
 The story of Primordia was unorthodox and interesting. Perhaps not groundbreaking or original on all fronts, but well developed enough to warrant a playthrough even if the character and dialogue features described above were toned down a few notches.
 
 <figure>
-    <img src="../assets/img/primordia_crash.png">
+    <img src="../img/primordia_crash.png">
     <figcaption>Source: http://www.wadjeteyegames.com/games/primordia/</figcaption>
 </figure>
 
