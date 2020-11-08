@@ -1,3 +1,8 @@
+---
+layout: post
+title: Book Queue
+---
+
 ## Currently Reading
 
 * The Brothers Karamazov
