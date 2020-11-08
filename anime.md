@@ -1,4 +1,9 @@
-Here's a list of some of my favorite anime of all time.
+---
+layout: post
+title: Favorite Anime
+---
+
+I highly recommend.
 
 * Claymore
 * Neon Genesis Evangelion
