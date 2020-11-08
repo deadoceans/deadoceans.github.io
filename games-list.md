@@ -2,7 +2,7 @@
 
 A personal backlog of PC games that I own on either GOG or Steam.  It's become quite a lot to keep track of, which is the reason I've made this.  I'm separating them into 3 categories: currently playing, queue, and completed games.
 
-A "completed" game is nothing like 100% achievements.  The criteria is either going through a full playthrough, or rarely, when I feel like dropping the game.
+A "completed" game is not 100% achievements.  The criteria is either going through a full playthrough, or rarely, when I feel like dropping the game.  I feel like a game is truly complete when I can leave a review and express my thoughts about it.
 
 The queue is a rough list of the order I'd like to play the games.
 
@@ -10,15 +10,14 @@ Generally, I play a few games at once, and each of them belongs to a different g
 
 I try to give a game at least a few hours.  No ADHD-like starting and then stopping and moving onto something else, leaving an entire library 15% completed.
 
-I try to leave thoughts and reviews for most of the games I complete.
-
-I'm not going to be buying more games anytime soon.  I'm staying off of the stores with the rare exception of a wishlist item.  I probably have enough games to last me for the entire rest of my life assuming I only play 1-2 hours per day :D
+I'm not going to be buying more games anytime soon.  I probably have enough games to last me for the entire rest of my life assuming I only play 1-2 hours per day :D
 
 ## Currently Playing
 * Kingdom Come: Deliverance
 * The Elder Scrolls III: Morrowind
 * S.T.A.L.K.E.R. Clear Sky
 * Divinity: Original Sin 2
+
 
 ## Queue
 
@@ -36,13 +35,15 @@ I'm not going to be buying more games anytime soon.  I'm staying off of the stor
 * Fallout 2
 * Fallout 3
 * Fallout: NV
+\[ end Fallout Playthrough \]
 
 * The Witcher
 * The Witcher 2: Assasins of Kings
 
 \[ F.E.A.R. Playthrough \]
 * F.E.A.R.
-* F.E.A.R. 2 PRoject Origin
+* F.E.A.R. 2 Project Origin
+\[ end F.E.A.R. Playthrough \]
 
 * Dragon Age: Origins Ultimate Edition
 * ATOM RPG
@@ -54,6 +55,7 @@ I'm not going to be buying more games anytime soon.  I'm staying off of the stor
 * Gothic 1
 * Gothic 2
 * Gothic 3
+\[ end Gothic Playthrough \]
 
 * Stasis
 * Shardlight
@@ -111,6 +113,7 @@ I'm not going to be buying more games anytime soon.  I'm staying off of the stor
 * Eye of the Beholder
 * Eye of the Beholder 2: The Legend of the Darkmoon
 
+\[ Steam Games \]
 * Alien: Isolation
 * Dragon's Dogma: Dark Arisen
 * Little Witch Nobeta
@@ -181,6 +184,7 @@ I'm not going to be buying more games anytime soon.  I'm staying off of the stor
 * Umineko When They Cry - Question Arcs
 * Wonderful Everyday Down the Rabbit Hole
 * Synergia
+
 
 ## Completed PC Games
 * S.T.A.L.K.E.R. Shadow of Chernobyl
