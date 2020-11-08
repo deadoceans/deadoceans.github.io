@@ -31,18 +31,22 @@ I'm not going to be buying more games anytime soon.  I probably have enough game
 * Tyranny
 
 \[ Fallout Playthrough \]
+
 * Fallout 1
 * Fallout 2
 * Fallout 3
 * Fallout: NV
+
 \[ end Fallout Playthrough \]
 
 * The Witcher
 * The Witcher 2: Assasins of Kings
 
 \[ F.E.A.R. Playthrough \]
+
 * F.E.A.R.
 * F.E.A.R. 2 Project Origin
+
 \[ end F.E.A.R. Playthrough \]
 
 * Dragon Age: Origins Ultimate Edition
@@ -52,9 +56,11 @@ I'm not going to be buying more games anytime soon.  I probably have enough game
 * The Age of Decadence
 
 \[ Gothic Playthrough \]
+
 * Gothic 1
 * Gothic 2
 * Gothic 3
+
 \[ end Gothic Playthrough \]
 
 * Stasis
