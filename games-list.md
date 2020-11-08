@@ -1,3 +1,5 @@
+# PC Game Backlog
+
 A personal backlog of PC games that I own on either GOG or Steam.  It's become quite a lot to keep track of, which is the reason I've made this.  I'm separating them into 3 categories: currently playing, queue, and completed games.
 
 A "completed" game is nothing like 100% achievements.  The criteria is either going through a full playthrough, or rarely, when I feel like dropping the game.
