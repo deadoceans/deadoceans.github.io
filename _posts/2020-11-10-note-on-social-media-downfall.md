@@ -2,9 +2,11 @@
 layout: post
 ---
 
+My opinion is that social media offers no benefits to society that is great enough to warrant its pathetic existence.  Some could throw out the commonly cited arguments that it connects people, it's a great way to keep in touch, and it serves as a social activism tool.  But then I'd counter that people are lonelier, more depressed, more anxious, and more disconnected than ever, and there was no lack of group formation and support, for activism or otherwise, before Facebook was begotten (Do you think MLK made a facebook group to rally his supporters for the historical march?).  No, my feelings towards social media are like the feelings of the legendary Christopher Hitchens towards religion - it is ultimately a parasite upon the human race with little to no redeemable qualities.
+
 It must've been 8-10 years ago, probably around the age of 16 years old, that I predicted not only the deleterious effects of mainstream social media on the human psyche and the cascade of mental illness it would cause or exacerbate, but also the fact that they make an insidious tool to manipulate the perception of their users to influence everything from societal norms and virtues to political outcomes according to their own bias.
 
-As people are finally waking up to this in 2020 and deleting their Facebook and Twitter accounts in droves in favor of freer and non-biased social media platforms where their voices are not silenced, the only thing I can do is sit back in ecstasy and bliss as I watch the downfall of true evil. My pipe dream is that Facebook, Twitter, Instagram, YouTube, etc., being the cesspools that they are, are completely wiped off of the face of the planet.
+As people are finally waking up to this in 2020 and deleting their Facebook and Twitter accounts in droves in favor of freer and non-biased social media platforms where their voices are not silenced, the only thing I can do is sit back in ecstasy and bliss as I watch the downfall of true evil.  These independent platforms may indeed still be social media, but at least they respect their users. My pipe dream is that Facebook, Twitter, Instagram, YouTube, etc., being the cesspools that they are, are completely wiped off of the face of the planet.
 
 Until this becomes a reality, I can only smile at the likely probability of their once astronomical monetary incomes slowly decreasing as they are able to exploit and manipulate less and less people.
 
