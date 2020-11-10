@@ -9,7 +9,7 @@ title: About
 
 Software Engineer specializing in Qt/QML, embedded systems, Linux, and general desktop and touchscreen application development.  
 
-Ironically skeptical of technology and the impact it is having on the human psyche.  
+Ironically skeptical of technology and the impact it is having on the human soul.  
 
 Zero social media and an advocate of privacy and a focused and meaningful life lived by a personal sense of what is right.
 
