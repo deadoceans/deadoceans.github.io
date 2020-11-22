@@ -1,5 +1,6 @@
 ---
 layout: post
+title: A Note on Social Media Downfall
 ---
 
 My opinion is that social media offers no benefit to society that is great enough to warrant its existence.  Some could throw out the commonly cited arguments that it connects people, it's a great way to keep in touch, and it serves as a social activism and rallying tool.  But then I'd counter that people are lonelier, more depressed, more anxious, and more disconnected than ever, and there was no lack of group formation and support, for activism or otherwise, before Facebook was begotten (Do you think MLK made a facebook group to rally his supporters for the historical march?).  No, my feelings towards social media are like the feelings of the legendary Christopher Hitchens towards religion - it is ultimately a parasite upon the human race with little to no redeemable qualities.
