@@ -18,9 +18,7 @@ I'm not going to be buying more games anytime soon.  I probably have enough game
 ## Currently Playing
 * Kingdom Come: Deliverance
 * The Elder Scrolls III: Morrowind
-* S.T.A.L.K.E.R. Clear Sky
-* Divinity: Original Sin 2
-
+* Shadowrun: Dragonfall
 
 ## Queue
 
@@ -29,7 +27,6 @@ I'm not going to be buying more games anytime soon.  I probably have enough game
 
 * Wasteland 3 (somewhat complete, on hold)
 * Metro Exodus
-* Shadowrun Dragonfall 
 * Pathfinder: Kingmaker
 * Tyranny
 
@@ -196,6 +193,7 @@ I'm not going to be buying more games anytime soon.  I probably have enough game
 
 
 ## Completed PC Games
+* The Cat Lady
 * S.T.A.L.K.E.R. Shadow of Chernobyl
 * ELEX
 * SOMA
