@@ -31,19 +31,19 @@ Although inspired in many ways by *Roadside Picnic*, S.T.A.L.K.E.R. is, in my op
 
 The gameplay of S.T.A.L.K.E.R. is a bit rough and it's brilliance does not exist in a seamless FPS experience.  But it's certainly passable and does not get in the way.
 
-I actually found that the gameplay grew on me once I settled into it.  I played on the hardest difficulty, which is a more realistic setting and I think the way the game should be played.  Not only can you die much easier, but the enemies can as well, and 1-2 headshots will instantly kill you.  It requires quick reactions and some degree of planning when there are multiple enemies scattered throughout a location.  I found the sounds and feel of the weapons to be passable and gritty feeling.
+I actually found that the gameplay grew on me once I settled into it.  I played on the hardest difficulty, which is a more realistic setting and I think the way the game should be played.  Not only can you die much easier, but the enemies can as well, and 1-2 headshots will instantly kill you.  It requires quick reactions and some degree of planning when there are multiple enemies scattered throughout a location.  And God forbid if you stumble acros a bloodsucker.  I found the sounds and feel of the weapons to be impactful and gritty feeling.
 
 <figure>
     <img src="../img/stalker_review/stalker2.jpg">
 </figure>
 
-The relationship between quests/tasks given to you and associated exploration form the backbone of the S.T.A.L.K.E.R. experience.  Where you go and what you do is generally up to you.  You can spend the entire time wandering around the wasteland and discovering strange locations, artifacts, and enemies on your own time, or you can let this exploration evolve as a consequence of following questlines, both main and side.  Quests are a hit or miss.  Some lead to interesting outcomes and discoveries, while some simply are.  The main questline, from what I remember, leads you nicely through the various sections of the map in the game.
+The relationship between quests/tasks given to you and associated exploration form the backbone of the S.T.A.L.K.E.R. experience.  Where you go and what you do is generally up to you.  You can spend the entire time wandering around the wasteland and discovering strange locations, artifacts, and enemies on your own time, or you can let this exploration evolve as a consequence of following questlines, both main and side.  Quests are a hit or miss.  Some lead to interesting outcomes and discoveries, while some simply were.  The main questline, from what I remember, leads you nicely through the various sections of the map in the game.
 
 What I want to emphasize the most in my thoughts for this game is the ambience of S.T.A.L.K.E.R. Shadow of Chernobyl.
 
-What do I mean by atmosphere?  It is something that is best experienced instead of described, but I will do my best.  If you could imagine yourself placed into a desolate, oppressive, grey landscape, alone and unaware of your new surroundings yet beckoned to explore and immersive yourself in the quiet melancholy of your isolation and surrounding deadness, then you would be in the devasted forest surrounding the Chernobyl exclusion zone in S.T.A.L.K.E.R..
+What do I mean by atmosphere?  It is something that is best experienced instead of described, but I will do my best.  If you could imagine yourself placed into a desolate, oppressive, grey landscape, alone and unaware of your new surroundings yet beckoned to explore and immersive yourself in the quiet melancholy of your isolation and surrounding deadness, then you would be in the devasted forest surrounding the Chernobyl exclusion zone in S.T.A.L.K.E.R..  You would be in this game.
 
-The horror of this game was perhaps not a focal point in the initial development, but places like Lab X-18 are some of the most terrifying places I've been in the world of video games.
+The horror of Shadow of Chernobyl was perhaps not a focal point in the initial development, but places like Lab X-18 are some of the most terrifying places I've been in the world of video games.  Everyone who is a fan of horror should make their way into Lab X-18 on a dark night.
 
 <figure>
     <img src="../img/stalker_review/stalker4.jpg">
@@ -53,6 +53,6 @@ I remember when I was watching the video of the development team giving their th
 
 ---
 
-As you make your way closer and closer to the remains of the highly irradiated nuclear power plant, you discover your purpose and who you are when your journey finally comes to its conclusion.  I will never forget being deep inside of the reactor building, my geiger counter ticking as if it was going to break at any second while I watched the corners for any nuclear worshipping Monolith faction soldiers wanting to end my life with a rail gun.
+As you make your way closer and closer to the remains of the highly irradiated nuclear power plant, you discover your purpose and who you are when your journey finally comes to its conclusion.  I will never forget being deep inside of the reactor building, surrounded by contaminated graphite, my geiger counter ticking as if it was going to break at any second while I watched the corners for any nuclear worshipping Monolith faction soldiers wanting to end my life with a rail gun.
 
-The frankly weird ending (I won't spoil anything) was an extraordinarily fitting conclusion for this game, and it cemented Shadow of Chernobyl as one of my favorite games of all time.  In the harsh rays of the summer heat, I found my solace walking through the cold and dead remains of Pripyat.
+The frankly weird ending (I won't spoil anything) was an extraordinarily fitting conclusion for this game, and it cemented Shadow of Chernobyl as one of my favorite games of all time.  While I played this in the harsh rays of the summer heat, I found my solace walking through the cold and dead remains of Pripyat.
