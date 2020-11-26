@@ -49,7 +49,7 @@ The horror of Shadow of Chernobyl was perhaps not a focal point in the initial d
     <img src="../img/stalker_review/stalker4.jpg">
 </figure>
 
-I remember when I was watching the video of the development team giving their thoughts on Clear Sky, they said that they wanted to make a game where it feels like you could be a part of it and live in it.  That's what this is.  There are no complex NPC dialogues and large, populated cities to explore and take in such as Skyrim or The Witcher 3, yet you are drawn back into it again and again just like your main character is inexplicably drawn to the Chernobyl nuclear power plant reactor.  You want to see what is out there, but you also want to wire yourself back into a place that is far away from other souls to reflect on your own life and purpose in the void.  Shadow of Chernobyl is simultaneously an unnerving experience of paranoia and a panacea from the chaos of the real world.
+I remember when I was watching the video of the development team giving their thoughts on Clear Sky, they said that they wanted to make a game where it feels like you could be a part of it and live in it.  That's what this is.  There are no complex NPC dialogues and large, populated cities to explore and take in such as in Skyrim or The Witcher 3, yet you are drawn back into it again and again just like your main character is inexplicably drawn to the Chernobyl nuclear power plant reactor.  You want to see what is out there, but you also want to wire yourself back into a place that is far away from other souls to reflect on your own life and purpose in the void.  Shadow of Chernobyl is simultaneously an unnerving experience of paranoia and a panacea from the chaos of the real world.
 
 ---
 
