@@ -29,3 +29,20 @@ Although inspired in many ways by *Roadside Picnic*, S.T.A.L.K.E.R. is, in my op
 
 ---
 
+The gameplay of S.T.A.L.K.E.R. is a bit rough and it's brilliance does not exist in a seamless FPS experience.  But it's certainly passable and does not get in the way.
+
+I actually found that the gameplay grew on me once I settled into it.  I played on the hardest difficulty, which is a more realistic setting and I think the way the game should be played.  Not only can you die much easier, but the enemies can as well, and 1-2 headshots will instantly kill you.  It requires quick reactions and some degree of planning when there are multiple enemies scattered throughout a location.  I found the sounds and feel of the weapons to be passable and gritty feeling.
+
+<figure>
+    <img src="../img/stalker_review/stalker2.jpg">
+</figure>
+
+The relationship between quests/tasks given to you and associated exploration form the backbone of the S.T.A.L.K.E.R. experience.  Where you go and what you do is generally up to you.  You can spend the entire time wandering around the wasteland and discovering strange locations, artifacts, and enemies on your own time, or you can let this exploration evolve as a consequence of following questlines, both main and side.  Quests are a hit or miss.  Some lead to interesting outcomes and discoveries, while some simply are.  The main questline, from what I remember, leads you nicely through the various sections of the map in the game.
+
+What I want to emphasize the most in my thoughts for this game is the ambience of S.T.A.L.K.E.R. Shadow of Chernobyl.
+
+What do I mean by atmosphere?  It is something that is best experienced instead of described, but I will do my best.  If you could imagine yourself placed into a desolate, oppressive, grey landscape, alone and unaware of your new surroundings yet beckoned to explore and enjoy the quiet melancholy of your isolation and surrounding deadness, 
+
+<figure>
+    <img src="../img/stalker_review/stalker4.jpg">
+</figure>
