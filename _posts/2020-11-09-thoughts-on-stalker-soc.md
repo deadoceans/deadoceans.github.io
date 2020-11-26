@@ -55,4 +55,4 @@ I remember when I was watching the video of the development team giving their th
 
 As you make your way closer and closer to the remains of the highly irradiated nuclear power plant, you discover your purpose and who you are when your journey finally comes to its conclusion.  I will never forget being deep inside of the reactor building, my geiger counter ticking as if it was going to break at any second while I watched the corners for any nuclear worshipping Monolith faction soldiers wanting to end my life with a rail gun.
 
-The frankly weird ending (I won't spil anything) was an extraordinarily fitting conclusion for this game, and it cemented Shadow of Chernobyl as one of my favorite games of all time.  In the harsh rays of the summer heat, I found my solace walking through the cold and dead remains of Pripyat.
+The frankly weird ending (I won't spoil anything) was an extraordinarily fitting conclusion for this game, and it cemented Shadow of Chernobyl as one of my favorite games of all time.  In the harsh rays of the summer heat, I found my solace walking through the cold and dead remains of Pripyat.
