@@ -41,8 +41,18 @@ The relationship between quests/tasks given to you and associated exploration fo
 
 What I want to emphasize the most in my thoughts for this game is the ambience of S.T.A.L.K.E.R. Shadow of Chernobyl.
 
-What do I mean by atmosphere?  It is something that is best experienced instead of described, but I will do my best.  If you could imagine yourself placed into a desolate, oppressive, grey landscape, alone and unaware of your new surroundings yet beckoned to explore and enjoy the quiet melancholy of your isolation and surrounding deadness, 
+What do I mean by atmosphere?  It is something that is best experienced instead of described, but I will do my best.  If you could imagine yourself placed into a desolate, oppressive, grey landscape, alone and unaware of your new surroundings yet beckoned to explore and immersive yourself in the quiet melancholy of your isolation and surrounding deadness, then you would be in the devasted forest surrounding the Chernobyl exclusion zone in S.T.A.L.K.E.R..
+
+The horror of this game was perhaps not a focal point in the initial development, but places like Lab X-18 are some of the most terrifying places I've been in the world of video games.
 
 <figure>
     <img src="../img/stalker_review/stalker4.jpg">
 </figure>
+
+I remember when I was watching the video of the development team giving their thoughts on Clear Sky, they said that they wanted to make a game where it feels like you could be a part of it and live in it.  That's what this is.  There are no complex NPC dialogues and large, populated cities to explore and take in such as Skyrim or The Witcher 3, yet you are drawn back into it again and again just like your main character is inexplicably drawn to the Chernobyl nuclear power plant reactor.  You want to see what is out there, but you also want to wire yourself back into a place that is far away from other souls to reflect on your own life and purpose in the void.  Shadow of Chernobyl is simultaneously an unnerving experience of paranoia and a panacea from the chaos of the real world.
+
+---
+
+As you make your way closer and closer to the remains of the highly irradiated nuclear power plant, you discover your purpose and who you are when your journey finally comes to its conclusion.  I will never forget being deep inside of the reactor building, my geiger counter ticking as if it was going to break at any second while I watched the corners for any nuclear worshipping Monolith faction soldiers wanting to end my life with a rail gun.
+
+The frankly weird ending (I won't spil anything) was an extraordinarily fitting conclusion for this game, and it cemented Shadow of Chernobyl as one of my favorite games of all time.  In the harsh rays of the summer heat, I found my solace walking through the cold and dead remains of Pripyat.
