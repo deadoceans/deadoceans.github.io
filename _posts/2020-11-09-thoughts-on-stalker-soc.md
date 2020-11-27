@@ -2,14 +2,12 @@
 layout: post
 title: Thoughts on S.T.A.L.K.E.R. Shadow of Chernobyl
 ---
-> “Мы будем делать Добро из Зла, потому что его больше не из чего делать.” - Аркадий Стругацкий
-
-The atmosphere of this thing.  It's like nothing I have experienced before in a video game.
-
 
 <figure>
     <img src="../img/stalker_review/stalker1.jpg">
 </figure>
+
+> “Мы будем делать Добро из Зла, потому что его больше не из чего делать.” - Аркадий Стругацкий
 
 ---
 
