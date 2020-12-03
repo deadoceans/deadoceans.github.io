@@ -9,7 +9,7 @@ Before I begin creating something, I typically have a vision in my head of the w
 
 It's almost as if I visualize the entire span of work that will have to go into something, and the feeling from all of those discrete experiences combining into something continuous and overwhelming hits me at once.  And the last thing I want to do is open a text editor and start typing, because why start in the first place if I know what's coming?
 
-Then I sometimes start working on impulse.  In other words, I do the hardest part and I start wiothout thinking.  What I find is that I am enjoying myself.  I find that I derive an immense amount of satisfaction from getting anything done at all, no matter how small it may be.
+Then I sometimes start working on impulse.  In other words, I do the hardest part and I start without thinking.  What I find is that I am enjoying myself.  I find that I derive an immense amount of satisfaction from getting anything done at all, no matter how small it may be.
 
 I remember when I used to receive large, seemingly overwhelming tasks at my first job and express my sentiment to my more experienced coworker of "How do we even begin?"  He reminded me of what we learned in college, and what any computer science major should know - divide and conquer.
 
