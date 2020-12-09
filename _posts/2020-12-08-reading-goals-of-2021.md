@@ -9,17 +9,17 @@ One of the primary ones is a consistent reading routine that leads to a certain 
 
 ### Books
 
-A good balance of fiction and nonfiction that interests me or would be helpful professionally.  There are a lot of books that I have not read so I had some trouble coming up with this list at first, because I was faced with the dilemma of too many choices.  What helped was realizing making any list at all and sticking with it would lead to the result of 10 books read vs. 0 due to analysis paralysis.
+A good balance of fiction as well as nonfiction that interests me or would be helpful professionally.  There are a lot of books that I have not read so I had some trouble coming up with this list at first, because I was faced with the dilemma of too many choices.  What helped was realizing making any list at all and sticking with it would lead to the result of 10 books read vs. 0 due to analysis paralysis, or even worse, several started but none finished.
 
 * **The Brother's Karamazov, Dostoevsky**: Apparent legendary Russian fiction exploring the multitude of ways one can approach life I think.
-* **Shadow & Claw, Wolfe**: Dark-souls like dark fantasy with strange prose.
+* **Shadow & Claw, Wolfe**: Dark Souls-like dark fantasy with unorthodox prose.
 * **Sword & Citadel, Wolfe**: Part two of above.
 * **Master and Margarita, Bulgakov**: More apparent legendary Russian fiction, no idea what it's about.
-* **Hard Boiled Wonderland, Murakami**: Loved Norwegian Wood and the Wind Up Bird Chronicle.  Probably something absurd and dreamy.
+* **Hard Boiled Wonderland, Murakami**: Loved Norwegian Wood and The Wind Up Bird Chronicle.  Probably something absurd and dreamy.
 * **Embassytown, Mieville**: Mieville is great, I think this one explores language in a gritty sci-fi setting.
 * **Midnight in Chernobyl, Higginbotham**: Apparent brilliant account and analysis of the Chernobyl disaster.  Highly interesting subject for me.
 * **The Sense of Style, Pinker**: A modern book on how to write in a modern fashion.  Writing is something I am working on, so there it is.  Excited for this one.
-* **Being and Nothingness, Sartre**: A monster of a book outlining the philosophy of Sartre.  My reading lexile and IQ will both probably increase after painstakingly getting through this one.
+* **Being and Nothingness, Sartre**: A monster of a book outlining the philosophy of Sartre.  My reading lexile and IQ will both probably substantially increase after painstakingly getting through this one.
 * **How Linux Works, Ward**: 340 pages of pure good Linux stuff starting from the basics.  I like Linux and I want to get more into SysAdmin type of stuff, so this is a great book both for general knowledge and preparation for the RHCSA and other certs.
 
 ### Sacrifice
@@ -49,7 +49,7 @@ Easy enough.  My general daily schedule will look like this:
 8. Reading
 9. Sleep
 
-I will throw some time in for Piano and/or Guitar somewhere.
+I will throw some time in for Piano and/or Guitar somewhere.  After I finished the RHCSA, that is going to be replaced with more intensive study of Russian.
 
 ### Stipulations
 
