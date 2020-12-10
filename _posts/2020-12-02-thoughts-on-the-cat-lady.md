@@ -5,7 +5,7 @@ title: Thoughts on The Cat Lady
 
 
 <figure>
-    <img src="../img/cat_lady_review/cl-title.png.jpg">
+    <img src="../img/cat_lady_review/cl-title.png">
 </figure>
 
 As I reflect back on my life, I see chapters that are characterized by certain emotional paradigms I've inhabited.  Feeling tones, if you will.  Sometimes, they also coincide with some sort of creative work I'm experiencing in the process, or an idea that occupies my mind most of the time.
