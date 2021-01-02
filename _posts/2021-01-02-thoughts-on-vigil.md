@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Thoughts on Vigil: The Longest Night
+title: Thoughts on Vigil The Longest Night
 ---
 
 ## Fallen Eyeball
