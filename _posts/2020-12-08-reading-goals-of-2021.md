@@ -22,6 +22,16 @@ A good balance of fiction as well as nonfiction that interests me or would be he
 * **Being and Nothingness, Sartre**: A monster of a book outlining the philosophy of Sartre.  My reading lexile and IQ will both probably substantially increase after painstakingly getting through this one.
 * **How Linux Works, Ward**: 340 pages of pure good Linux stuff starting from the basics.  I like Linux and I want to get more into SysAdmin type of stuff, so this is a great book both for general knowledge and preparation for the RHCSA and other certs.
 
+**UPDATE**
+
+I've decided to also tack on the first five Witcher books for a total of 15. 
+
+* **The Last Wish**
+* **Sword of Destiny**
+* **Blood of Elves **
+* **Time of Contempt**
+* **Baptism of Fire**
+
 ### Sacrifice
 
 Playing video games is usually the last thing I do before bed once everything else is done.  Instead of doing this, I am going to read.  Only Monday through Thursday.  Friday evening and some parts of Saturday and Sunday I will play games, but I want to reserve weekday evenings for getting in at least an hour of reading, ideally 2-3.
@@ -29,12 +39,12 @@ Playing video games is usually the last thing I do before bed once everything el
 ### Habit/Schedule
 
 Habit stacking.  My current routine (or what I try to strive for and not always meet) is, after work, doing the following:
-1. Drawing
+1. Piano
 2. Some form of writing
 3. Play video games
 
 It will change to this:
-1. Drawing
+1. Piano
 2. Some form of writing
 3. Turn off PC and read
 
@@ -44,12 +54,12 @@ Easy enough.  My general daily schedule will look like this:
 3. Workout (if it's a workout day)
 4. Study for RHCSA
 5. Work Shift
-6. Drawing
+6. Piano
 7. Writing
 8. Reading
 9. Sleep
 
-I will throw some time in for Piano and/or Guitar somewhere.  After I finished the RHCSA, that is going to be replaced with more intensive study of Russian.
+I will throw some time in for Guitar or drawing somewhere.  After I finished the RHCSA, that is going to be replaced with more intensive study of Russian.
 
 ### Stipulations
 
