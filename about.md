@@ -17,4 +17,4 @@ Perpetual existentialist continuously trying to crawl my way out of reaching a n
 
 More interested in the human condition than boolean statements.
 
-I enjoy video games (DRM free, GOG is best girl), reading books, writing, piano, calisthenics, anime, language learning, traveling to different countries, and peace and quiet.  I wish I could draw vast, post apocalyptic environments.  Maybe it's something I will work on. 
+I enjoy (DRM free) games with my platform of choice being GOG, reading books, writing, piano, calisthenics, anime, language learning (currently learning Polish), traveling to different countries, and peace and quiet.  I wish I could draw vast, post apocalyptic environments.  Maybe it's something I will work on. 
